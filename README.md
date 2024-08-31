@@ -1,6 +1,8 @@
 <h1> Greetings, I'm Shane Dsouza, glad you're here
  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></h1>
 
+* 💻 **Passionate Full Stack Developer and aspiring Data Analyst,** with a strong foundation in building robust applications and extracting actionable insights from data.
+  
 * 🌐 Committed to employing technology for impactful solutions to real-world challenges.
 
 * 🌱 Keen on discovering emerging technologies and domains, with a strong focus on innovation and pushing limits.
